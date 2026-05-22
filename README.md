@@ -155,7 +155,7 @@ I actively explore **AI-driven systems, edge computing, and secure application d
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SUSHILV-30&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SUSHILV-30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SUSHILV-30&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
