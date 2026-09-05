@@ -1,200 +1,137 @@
-# 👋 Hi, I'm Sushil V
+<div align="center">
 
-🚀 **Aspiring Software Engineer | Full-Stack Developer | AI/ML Enthusiast**
-📍 Erode, Tamil Nadu, India
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hey,%20I'm%20Sushil%20👋&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=code.compile().deploy().repeat()&descAlignY=55&descSize=20"/>
 
----
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%F0%9F%92%BB;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Edge+Computing+Explorer+%E2%9A%A1;Turning+Coffee+%E2%98%95+into+Code" />
 
-## 🧠 About Me
+<br>
 
-I am a Computer Science undergraduate at **Amrita Vishwa Vidyapeetham (2023–2027)** with a strong foundation in programming, system design, and problem-solving.
+![Profile Views](https://komarev.com/ghpvc/?username=SUSHILV-30&color=58a6ff&style=for-the-badge&label=VISITORS)
+![Followers](https://img.shields.io/github/followers/SUSHILV-30?style=for-the-badge&color=58a6ff&labelColor=0d1117)
+![Streak](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=0d1117&color=58a6ff&label=CURRENT%20STREAK&query=currentStreak.length&url=https://streak-stats.demolab.com/?user=SUSHILV-30&suffix=%20days)
 
-I am passionate about building **real-world scalable applications**, working across **full-stack development, machine learning, and embedded systems**.
+</div>
 
-I actively explore **AI-driven systems, edge computing, and secure application development**, aiming to contribute to impactful and production-ready solutions.
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
----
+<h3 align="center">🖥️ ~/terminal</h3>
 
-## 🎓 Education
+<div align="center">
 
-* 🎓 **B.Tech in Computer Science Engineering**
-  Amrita Vishwa Vidyapeetham, Coimbatore (2023–2027)
+```bash
+sushil@dev:~$ cat about_me.txt
+```
 
-* 🏫 Higher Secondary (HSC) – CS Academy, Erode (2023)
+</div>
 
-* 🏫 Secondary (SSLC) – The B.V.B School (2021)
+<table align="center">
+<tr><td>
 
----
+```py
+class Sushil:
+    def __init__(self):
+        self.role     = "Full-Stack Developer & AI/ML Enthusiast"
+        self.base     = "Erode, Tamil Nadu 🇮🇳"
+        self.building = "an AI-powered attendance system"
+        self.learning = ["System Design", "Edge AI", "App Security"]
+        self.fuel     = "☕ + 🎧"
 
-## 🛠️ Technical Skills
+    def say_hi(self):
+        return "Let's build something scalable!"
 
-### 💻 Programming Languages
+me = Sushil()
+print(me.say_hi())
+```
 
-![C](https://img.shields.io/badge/C-blue?style=for-the-badge\&logo=c)
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge\&logo=python)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge\&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge\&logo=mysql)
+</td></tr>
+</table>
 
----
+<br>
 
-### 🌐 Web & Application Development
+<h3 align="center">⚡ Skills, Animated</h3>
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
-![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge\&logo=tailwindcss)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
-![Electron.js](https://img.shields.io/badge/Electron.js-black?style=for-the-badge\&logo=electron)
-![JWT](https://img.shields.io/badge/JWT-grey?style=for-the-badge\&logo=jsonwebtokens)
+<div align="center">
 
----
+<img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,mysql,html,css,tailwind,nodejs,electron,mongodb,git,docker,tensorflow,opencv&theme=dark&perline=8" />
 
-### 🗄️ Databases
+</div>
 
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
+<br>
 
----
+<div align="center">
 
-### ⚙️ Tools & Platforms
+<table>
+<tr>
+<td align="center" width="33%">
 
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge\&logo=git)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
+**🧠 AI / ML**
+<br>
+![CNN](https://img.shields.io/badge/CNN-58a6ff?style=flat-square&labelColor=0d1117)
+![RNN/LSTM](https://img.shields.io/badge/RNN%2FLSTM-58a6ff?style=flat-square&labelColor=0d1117)
+![TFLite](https://img.shields.io/badge/TensorFlow%20Lite-58a6ff?style=flat-square&labelColor=0d1117)
 
----
+</td>
+<td align="center" width="33%">
 
-### 🤖 Machine Learning / Computer Vision
+**🔌 IoT / Embedded**
+<br>
+![ESP32](https://img.shields.io/badge/ESP32-58a6ff?style=flat-square&labelColor=0d1117)
+![Arduino](https://img.shields.io/badge/Arduino-58a6ff?style=flat-square&labelColor=0d1117)
+![RFID](https://img.shields.io/badge/RFID-58a6ff?style=flat-square&labelColor=0d1117)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge\&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/OpenCV-green?style=for-the-badge\&logo=opencv)
+</td>
+<td align="center" width="33%">
 
-* CNN
-* RNN (LSTM)
-* TensorFlow Lite
+**🔐 Security**
+<br>
+![JWT](https://img.shields.io/badge/JWT-58a6ff?style=flat-square&labelColor=0d1117)
+![OAuth2](https://img.shields.io/badge/OAuth2-58a6ff?style=flat-square&labelColor=0d1117)
+![AES--256](https://img.shields.io/badge/AES--256-58a6ff?style=flat-square&labelColor=0d1117)
 
----
+</td>
+</tr>
+</table>
 
-### 🔌 IoT & Embedded Systems
+</div>
 
-* ESP32
-* Arduino
-* RFID
-* ThingSpeak
+<br>
 
----
+<h3 align="center">📊 GitHub, Live</h3>
 
-## 🚀 Projects
+<div align="center">
 
-### 🧭 CivicTrack – Community Issue Reporting Platform
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SUSHILV-30&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUSHILV-30&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
-📅 May 2025 – Oct 2025
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SUSHILV-30&theme=tokyonight&hide_border=true&background=0d1117" />
 
-* Built a full-stack MERN application for reporting and tracking civic issues
-* Implemented **JWT-based authentication** and role-based access control
-* Integrated **Leaflet.js** for interactive geolocation and visualization
-* Designed REST APIs for issue lifecycle and user management
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SUSHILV-30&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="100%"/>
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=SUSHILV-30&theme=tokyonight&no-frame=true&row=1&column=6" />
 
-### 🏨 LuxeStay – Secure Hotel Booking System
+</div>
 
-📅 Nov 2025 – Jan 2026
+<h3 align="center">🐍 Contribution Snake</h3>
 
-* Developed full-stack system with React frontend and Node.js backend
-* Implemented **RBAC (Admin, Staff, Customer)**
-* Added **Email OTP-based MFA, AES-256 encryption, RSA signatures**
-* Built secure APIs using JWT & Bcrypt
-* Designed responsive UI using Tailwind & Framer Motion
+<div align="center">
 
----
+<img src="https://github.com/SUSHILV-30/SUSHILV-30/blob/output/github-contribution-grid-snake.svg" width="100%"/>
 
-### 🚦 Latency-Aware Traffic Monitoring (Edge AI)
+</div>
 
-📅 Jun 2025 – Oct 2025
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
-* Designed anomaly detection system using **Raspberry Pi + TensorFlow Lite**
-* Reduced latency to **<200 ms**
-* Achieved **95% reduction in bandwidth usage**
-* Used MQTT for real-time communication
+<div align="center">
 
----
+### 🤝 Let's Connect
 
-### 🎯 AI-Powered Attendance System
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sushilv2005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SUSHILV-30)
 
-📅 Dec 2025 – Present
+<br>
 
-* Developed face recognition-based attendance system
-* Built backend using **FastAPI & Python**
-* Implemented **OAuth2, JWT, bcrypt security**
-* Used SQLAlchemy ORM for database handling
-* Designed modular and scalable architecture
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=3000&pause=1000&color=8B949E&center=true&width=600&lines=%22Turning+ideas+into+scalable+systems+through+code.%22" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 
-### 🗳️ RFID-Based Voting System
-
-📅 Aug 2025 – Nov 2025
-
-* Developed secure embedded voting system using RFID
-* Prevented duplicate/unauthorized voting
-* Integrated LCD display for real-time results
-* Ensured reliable vote storage and computation
-
----
-
-## 🧪 Research
-
-📄 **Hybrid CNN–RNN and DCT-Based Framework for Scene Text Detection (Under Review)**
-
-* Designed hybrid deep learning pipeline for text recognition
-* Improved robustness in compressed video streams
-* Used DCT-based adaptive color separation
-
----
-
-## 📊 GitHub Analytics
-
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SUSHILV-30&theme=tokyonight)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SUSHILV-30&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SUSHILV-30&theme=tokyonight)
----
-
-## 🐍 Contribution Graph
-
-![Snake animation](https://github.com/SUSHILV-30/SUSHILV-30/blob/output/github-contribution-grid-snake.svg)
-
----
-
-## 🏆 Achievements
-
-🥈 2nd Place – SIP Regional Prodigy Competition
-🥉 3rd Place – SIP District Prodigy
-
----
-
-## 📜 Certifications
-
-* Web Developer Bootcamp (Ongoing)
-* Power BI for Beginners
-* Ethical Hacking (Ongoing)
-* AWS Cloud Computing (Ongoing)
-
----
-
-## 🌍 Languages
-
-English • Tamil • Malayalam • Hindi
-
----
-
-## 📫 Contact
-
-📧 [sushilv2005@gmail.com](mailto:sushilv2005@gmail.com)
-🔗 https://github.com/SUSHILV-30
-
----
-
-⭐ *“Turning ideas into scalable systems through code.”*
+</div>
